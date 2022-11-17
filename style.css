@@ -7,3 +7,23 @@
     font-weight: bold;
     font-size: 14px;
 }
+
+.secondsection{
+    font-size:18px ;
+}
+
+.secondparagraph{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.thirdsection{
+    font-size:18px ;
+}
+
+.thirdparagraph{
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
